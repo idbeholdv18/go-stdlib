@@ -1,1 +1,1 @@
-test text for learning io
+Hello, world!
